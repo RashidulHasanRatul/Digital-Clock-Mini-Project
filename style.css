@@ -1,0 +1,29 @@
+
+
+.dark {
+    background: #000;
+    width: 350px;
+    height: 150px;
+    border: 1px solid black;
+   margin-top: 50px;
+   margin-left: 35%;
+}
+
+#head {
+    text-align: center;
+    margin-top: 20px;
+    border-bottom: 1px  dotted black ;
+}
+
+#time {
+    text-align: center;
+    margin-top: 50px;
+    color: #2ecc71;
+}
+
+small {
+    text-align: center;
+    
+    color: #2ecc71;
+    margin-left: 10px;
+}
